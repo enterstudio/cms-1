@@ -14,7 +14,7 @@ bcrypt>=2.0,<2.1  # https://github.com/pyca/bcrypt/
 chardet>=2.3,<2.4  # https://pypi.python.org/pypi/chardet
 
 # Only for some importers:
-pyyaml>=3.11,<3.12  # http://pyyaml.org/wiki/PyYAML
+pyyaml>=5.4,<3.12  # http://pyyaml.org/wiki/PyYAML
 
 # Only for printing:
 pycups>=1.9,<1.10  # https://pypi.python.org/pypi/pycups
